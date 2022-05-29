@@ -1,0 +1,43 @@
+{
+  "name": "tec-pagos-telegram-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "dependencies": {
+    "abort-controller": "^3.0.0",
+    "buffer-alloc": "^1.2.0",
+    "buffer-alloc-unsafe": "^1.1.0",
+    "buffer-fill": "^1.0.0",
+    "debug": "^4.3.4",
+    "dotenv": "^16.0.1",
+    "event-target-shim": "^5.0.1",
+    "minimist": "^1.2.6",
+    "module-alias": "^2.2.2",
+    "ms": "^2.1.2",
+    "node-fetch": "^2.6.7",
+    "nodemon": "^2.0.16",
+    "p-timeout": "^4.1.0",
+    "safe-compare": "^1.1.4",
+    "sandwich-stream": "^2.0.2",
+    "telegraf": "^4.8.3",
+    "tr46": "^0.0.3",
+    "typegram": "^3.9.1",
+    "webidl-conversions": "^3.0.1",
+    "whatwg-url": "^5.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon bot.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jorgetrad99/tec-pagos-telegram-BOT-.git"
+  },
+  "keywords": [],
+  "author": "Jorge Trad <jetradl@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jorgetrad99/tec-pagos-telegram-BOT-/issues"
+  },
+  "homepage": "https://github.com/jorgetrad99/tec-pagos-telegram-BOT-#readme"
+}
